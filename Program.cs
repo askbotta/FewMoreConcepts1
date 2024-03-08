@@ -49,6 +49,8 @@ class Hello
         StudentCourseAndName studentCourseAndName = new StudentCourseAndName();
         studentCourseAndName.Student();
 
+        MethodOverLoading methodOverLoading = new MethodOverLoading();
+        methodOverLoading.MethodOverLoading1();
 
 
         Console.ReadKey();
