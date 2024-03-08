@@ -40,6 +40,16 @@ class Hello
         IncrementOperatorBeforeAndAfterTheValue incrementOperatorBeforeAndAfterTheValue = new IncrementOperatorBeforeAndAfterTheValue();
         incrementOperatorBeforeAndAfterTheValue.IncrementOperatorBeforeAndAfterTheValue1();
 
+        TemperatureInFahrenheit temperatureInFahrenheit = new TemperatureInFahrenheit();
+        temperatureInFahrenheit.Temp();
+
+        GuidedProjectData guidedProjectData = new GuidedProjectData();
+        guidedProjectData.SumOfSubjects();
+
+        StudentCourseAndName studentCourseAndName = new StudentCourseAndName();
+        studentCourseAndName.Student();
+
+
 
         Console.ReadKey();
 
