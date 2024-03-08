@@ -37,6 +37,10 @@ class Hello
         IncrementAndDecrementAValue incrementAndDecrementAValue = new IncrementAndDecrementAValue();
         incrementAndDecrementAValue.IncrementAndDecrementAValue1();
 
+        IncrementOperatorBeforeAndAfterTheValue incrementOperatorBeforeAndAfterTheValue = new IncrementOperatorBeforeAndAfterTheValue();
+        incrementOperatorBeforeAndAfterTheValue.IncrementOperatorBeforeAndAfterTheValue1();
+
+
         Console.ReadKey();
 
     }
